@@ -66,9 +66,3 @@ This project uses statistical methods such as **co-occurrence counting, TF-IDF, 
 - **Languages & Tools:** Python (`NumPy`, `Pandas`), **Natural Language Processing (NLP)**
 
 ---
-
-### 📌 **How to Run the Project**
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/yourusername/Natural-Language-Processing---Word-Embeddings-Analysis.git
-   cd Natural-Language-Processing---Word-Embeddings-Analysis](https://github.com/MIHIRY/Natural-Language-Processing---Word-Embeddings-Analysis/blob/Publication-Certificate/word-embeddings-analysis.ipynb)
